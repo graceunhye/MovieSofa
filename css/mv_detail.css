@@ -1,0 +1,196 @@
+
+div.mvImg {
+	width: 540px;
+	float: left;
+}
+
+
+div.mvInfoTable {
+	border: 1px solid #cccccc;
+	border-radius: 5px;
+	width: 700px;
+	height: 720px;
+	float: right;
+	margin: 20px 20px 10px 10px;
+}
+
+img.mainImage {
+	width: 500px;
+	padding: 20px;
+}
+
+div.mv_section {
+	width: 1280px;
+	height: 1200px;
+}
+
+div.mv_clip {
+	width: 1280px;
+	height: 500px;
+	clear: both;
+}
+
+
+div.rv_section {
+	clear: both;
+	width: 1280px;
+	height: 1000px;
+}
+
+table.rvt_1,
+.rvt_2,
+.rvt_3
+{
+	width: 1200px;
+	margin-left:40px;
+	border: 1px solid black;
+	border-radius: 5px;
+	margin-top: 20px;
+}
+
+table.rvt_1 tr,
+.rvt_2 tr,
+.rvt_3 tr
+{
+	height: 50px;
+}
+
+
+
+div.rvtxt_box {
+	margin: 30px;
+}
+
+input.rvbtn {
+	margin-left: 20px;
+	cursor : pointer;
+	color: white;
+	background-color: #CE2127;
+	width: 90px;
+	height: 30px;
+	border-radius: 5px;
+	border: 1px solid #CE2127;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+div.rvtxt_box span {
+	font-size: 40px;
+	font-weight: bold;
+}
+
+img.rvImg {
+	width: 100px;
+	margin: 20px 10px 20px 10px;
+}
+
+table.mvInfo {
+	width: 700px;
+	height: 720px;
+}
+
+.type,
+.director {
+	text-align: right;
+	width: 70px;
+	font-weight: bold;
+}
+
+.summary {
+	text-align: left;
+	padding-left: 25px;
+	font-weight: bold;
+}
+
+td.titleInfo {
+	font-size: 40px;
+	font-weight: bold;
+	padding-left: 20px;
+}
+
+tr.mvType {
+	height: 40px;
+}
+
+tr.mvDirector {
+	height: 40px;
+}
+
+tr.mvSummary {
+	height: 250px;
+}
+
+tr.mvActor {
+	height: 40px;
+}
+
+img.actor_icon {
+	width: 30px;
+}
+
+span.actor_txt {
+	font-size: 30px;
+	font-weight: bold;
+	margin-left: 10px;
+}
+
+div.actor_wrap {
+	float: left;
+	margin-left: 20px;
+}
+
+tr.mvTitle {
+	height: 100px;
+}
+
+td.actorimg img {
+	width: 130px;
+	margin-left: 10px;
+}
+
+td.rvt_td {
+	width: 150px;
+}
+
+div.imgwrap {
+	padding: 10px;
+	border: 1px solid #cccccc;
+}
+
+td.rv_title {
+	padding-left: 10px;
+	font-size: 25px;
+	text-decoration: underline;
+}
+
+td.rv_content {
+	padding: 5px 10px 10px 5px;
+}
+
+td.summaryInfo {
+	padding: 0 15px 0 15px;
+	font-size: 14px;
+	line-height: 30px;
+	color: gray;
+}
+
+div.mv_clip iframe {
+	margin: 10px 15px 10px 15px;
+}
+
+.clip_title img {
+	width: 50px;
+}
+
+.clip_title span {
+	font-size: 30px;
+	font-weight: bold;
+}
+
+div.clip_title {
+	margin: 10px 0 10px 30px;
+}
+
+div.video {
+	margin-left: 20px;
+}

@@ -1,0 +1,28 @@
+h3
+{
+width : 300px;
+margin-left : 100px;
+}
+ul.gallery
+{
+list-style:none;
+padding-left : 90px;
+}
+ul.gallery>li
+{
+float : left;
+text-align : center;
+margin : 10px;
+}
+.pagelink{
+clear : left;
+padding-left : 605px;
+padding-top : 20px;
+cursor : pointer;
+}
+
+.pagelink a{
+text-decoration : none;
+color : black;
+}
+

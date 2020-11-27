@@ -1,0 +1,110 @@
+﻿/*공통부분*/
+html {
+    scroll-behavior: smooth;
+}
+
+.wrap {
+	width:1280px;
+	margin-left:301px;
+	background-color: white;
+}
+
+
+.menu_li { 
+	float: left;
+	width: 175px;
+	height: 48px;
+	background-color: #2E2D2C;
+	position: relative;
+}
+
+.menu_a {
+	display: block;
+	width: 100%;
+	height: 100%;
+	line-height: 48px;
+	text-indent: 30px;
+	font-weight: bold;
+	color: #eee;
+	text-decoration: none;
+}
+
+.menu_a:hover {
+	background-color: #CE2127;
+}
+
+ul.menu{
+	zoom: 1;
+	list-style-type:none;
+	width: 1280px;
+}
+
+ul.menu:after{
+	height: 0;
+	visibility: hidden;
+	content: ".";
+	display: block;
+	clear: both;
+}
+
+
+.search_type {
+	float: right;
+	margin: 10px;
+	width: 100px;
+	height: 30px;
+	border-radius: 5px;
+	border: 1px solid #cccccc;
+}
+
+.search_text {
+	margin: 10px;
+	width: 160px;
+	height: 30px;
+	border-radius: 5px;
+	border: 1px solid  #cccccc;
+}
+
+.search_btn {
+	margin: 10px;
+	width: 90px;
+	height: 30px;
+	border-radius: 5px;
+	background-color: #CE2127;
+	border: 1px solid #CE2127;
+	font-size: 15px;
+	color: white;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.a {
+	font-size: 15px;
+	font-weight: bold;
+	color: #2E2D2C;
+	margin: 20px 10px 0 10px;
+	text-decoration: none;
+}
+
+.footer {
+	margin: 30px;
+}
+
+
+.footer_content {
+	color: #595755;
+	float: left;
+	font-size: 14px;
+	list-style-type: none;
+	line-height: 10px;
+	margin: 30px 20px 0px 10px;
+}
+
+.footer_title {
+	float: left;
+	color: white;
+	//font-weight: bold;
+	list-style-type: none;
+	line-height: 10px;
+	margin: 30px 20px 0px 10px;
+}

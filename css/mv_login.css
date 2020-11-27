@@ -1,0 +1,36 @@
+﻿.id, .pw{
+	width : 300px;
+	height : 30px;
+	margin : 5px;
+}
+.login_btn{
+	width : 310px;
+	height : 40px;
+	margin : 5px;
+	border-radius: 5px;
+	background-color: #CE2127;
+	border: 1px solid #CE2127;
+	font-size: 15px;
+	color: white;
+	font-weight: bold;
+	cursor: pointer;
+}
+.join_btn{
+	width : 310px;
+	height : 40px;
+	margin : 5px;
+	border-radius: 5px;
+	background-color: #CE2127;
+	border: 1px solid #CE2127;
+	font-size: 15px;
+	color: white;
+	font-weight: bold;
+	cursor: pointer;
+}
+.logo_only{
+	width : 150px;
+	height : 120px;
+	padding-top : 180px;
+	
+
+}

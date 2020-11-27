@@ -1,0 +1,63 @@
+﻿.jointext{
+	padding-left : 580px;
+}
+.fieldset{
+	width : 350px;
+	height : 280px;
+	padding-left : 40px;
+	border-radius: 5px;
+	border : 2px solid black;
+	
+}
+.span{
+	color : red;
+}
+.input{
+	width : 200px;
+	height : 30px;
+}
+
+.join_btn{
+	width : 310px;
+	height : 40px;
+	margin : 5px;
+	border-radius: 5px;
+	background-color: #CE2127;
+	border: 1px solid #CE2127;
+	font-size: 15px;
+	color: white;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.join_div{
+	padding-left : 45px;
+}
+
+.article{
+	padding-top : 100px;
+}
+
+.join_frm{
+	padding-left : 450px;
+}
+
+.id_dup{
+	width : 100px;
+	height : 30px;
+	border-radius: 5px;
+	background-color: #CE2127;
+	border: 1px solid #CE2127;
+	font-size: 12px;
+	color: white;
+	font-weight: bold;
+	cursor : pointer;
+}
+
+.pw{
+	width : 300px;
+}
+
+.pw_confirm{
+	width : 300px;
+}

@@ -1,0 +1,43 @@
+﻿.reviewTable,.reviewTable th,.reviewTable td
+{
+	font-size:0.95em;
+	text-align:center;
+	padding:4px;
+	border:1px solid #dddddd;
+	border-collapse: collapse;
+}		
+ 
+ /* Button Style Start*/
+.buttons input{
+	
+	position:			relative;
+	left:				67%;
+	width: 				90px;
+	height: 			30px;
+	border-radius: 		5px;
+	border:				0px;
+	background-color: 	#CE2127;
+	font-size: 			15px;
+	color: 				white;
+	font-weight: 		bold;
+	cursor:				pointer;
+
+ } 
+ 
+ .recomment_btn {
+	 width:50;
+	 height:20px;
+	 color:white;
+	 font-size:10px;
+	 background-color:#CE2127;
+	 border:1px solid #CE2127;
+	 border-radius:5px;
+	 cursor:				pointer;
+ }
+ 
+ .comment_option_btn {
+	 height:20px;
+	 font-size:10px;
+	 background-color: none;
+	 cursor:pointer;
+ }

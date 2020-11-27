@@ -1,0 +1,85 @@
+﻿.nav {
+	width: 1920px;
+	height: 70px;
+	background-color: #2E2D2C;
+}
+
+.menu {
+	padding-top: 20px;
+}
+
+.menu li {
+	list-style-type: none;
+	display: inline;
+}
+
+.menu li a {
+	color: white;
+	font-size: 25px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.form {
+	display: inline;
+	float:right;
+	margin-right: 50px;
+}
+
+li.menuTap {
+	margin: 0 0 0 40px;
+}
+
+.search_type {
+	width: 100px;
+	height: 40px;
+	border: 5px solid #CE2127;
+	border-radius: 5px;
+}
+.search_text {
+	width: 300px;
+	height: 38px;
+	border: 5px solid #CE2127;
+}
+.btn {
+	width: 100px;
+	height: 40px;
+	border-radius: 5px;
+	background-color: #CE2127;
+	color: white;
+	border: 1px solid #CE2127;
+	font-size: 15px;
+	font-weight: bold;
+	cursor: hand;
+}
+
+.section {
+	width: 1920px;
+	height: 1000px;
+}
+
+.logotext {
+	font-weight: bold;
+	font-size: 100px;
+	color: #2E2D2C;
+	font-family: Brush Script MT,arial,serfi;
+}
+
+.logotop {
+	width: 1920px;
+	height: 170px;
+}
+
+.logoflat {
+	width: 1920px;
+	height: 110px;
+	background-color: #2E2D2C;
+}
+
+.movetext {
+	margin-left: 640px;
+}
+
+.movelogo {
+	margin-left: 640px;
+}
