@@ -1,0 +1,16 @@
+.searchview{
+	position : relative;
+	padding-left : 10%;		
+}
+.listbtn{
+	background-color : #124993;
+	color : white;
+	border : #124993;
+	border-radius: 3px;
+	width : 70px;
+	position : relative;
+	margin-left : 61%;
+}
+.view_td{
+	background-color : #e6f1ff;
+}

@@ -1,0 +1,12 @@
+.booklist{
+	position : relative;
+	padding-left : 10%;
+	width : 900px;
+}
+.searchpage{
+	position : relative;
+	padding-left : 40%;				
+}
+.recommend{
+	border-top : 2px solid #124993;
+}

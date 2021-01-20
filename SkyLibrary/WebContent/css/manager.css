@@ -1,0 +1,16 @@
+.manager_page{
+	positon : relative;
+	margin-left : 40%;
+}
+a{
+	color : black;
+	text-decoration: none;
+}
+.insert_btn{
+	positon : relative;
+	margin-left : 5%;		
+}
+.manager_td{
+	text-align : center;
+	background-color : #f5f5f5;
+}

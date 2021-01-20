@@ -1,0 +1,76 @@
+@charset "EUC-KR";
+
+.searchOptionBox {
+	border: 1px solid black;
+	width: 900px;
+	height: 100px;
+	margin: 50px 0 0 130px;
+	border-radius: 5px;
+	border: 1px solid  #e0e0e0;
+	background-color: #e0e0e0;
+	padding-top: 50px;
+}
+
+.keyword {
+	padding: 10px 20px 10px 20px;
+	border-radius: 5px;
+	border: 1px solid  #a8a8a8;
+}
+
+.select {
+	width: 100px;
+	height: 40px;
+	border-radius: 5px;
+	border: 1px solid  #a8a8a8;
+}
+
+
+.searchBtn {
+	width: 70px;
+	height: 40px;
+	border-radius: 5px;
+	border: 1px solid  #a8a8a8;
+	color: white;
+	background-color: #124993;
+	font-weight: bold;
+}
+
+.options {
+	margin-left:110px;
+}
+
+.totalselect{
+	position : relative;
+	padding-left : 10%;	
+}
+.searchbox{
+	border : 5px solid #124993;
+	height : 40px;
+}
+.selectbox{
+	height : 30px;
+	width : 80px;
+}
+.search_btn{
+	background-color : #124993;
+	color : white;
+	height : 40px;
+	width : 100px;
+	border-radius: 5px;
+	font-size : 20px;
+	border : #124993;
+}
+.booklist{
+	position : relative;
+	padding-left : 10%;
+	height : 800px;
+	width : 900px;
+	margin-top: 100px;
+}
+.searchpage{
+	position : relative;
+	padding-left : 42%;				
+}	
+.new{
+	border-top : 2px solid #124993;
+}

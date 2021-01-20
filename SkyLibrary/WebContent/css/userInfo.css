@@ -1,0 +1,58 @@
+/** userInfo.jsp **/
+	
+	.content_table{
+	
+		border-collapse:collapse; 
+		width:	600px;
+		height:	300px;
+		margin: 0px;
+		position: relative;
+		left: 25%;
+	
+	}
+	
+	.top_tr{
+		border-top : 2px solid #2C78D7;
+		border-bottom : 1px solid #a8a8a8;
+	}
+
+	.top_td{
+	
+		padding-top : 20px;
+		padding-bottom : 20px;
+		padding-left:	20px;
+
+	}
+	
+	.mid_tr{
+		border-bottom : 1px solid #a8a8a8;
+	}
+	
+	.mid_td{
+		padding-top : 20px;
+		padding-bottom : 20px;
+		padding-left:	20px;
+		border-bottom : 1px solid #a8a8a8;
+	}
+	
+	
+	.top_tr th, .mid_tr th{
+
+		border-right: 1px solid #a8a8a8;
+		font-size: 18px;
+	}
+	
+	#modify_b{
+		background-color : #2C78D7;
+		color : white;
+		border-radius: 5px;
+		border : #124993;
+		width : 120px;
+		height : 40px;
+		font-size: 15px;
+		position: relative;
+		left: 40%;
+		margin: 30px 0 0 50px;
+		font-weight: bold;
+	}
+	

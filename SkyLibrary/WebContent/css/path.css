@@ -1,0 +1,10 @@
+@charset "EUC-KR";
+
+.mapWrap {
+	margin: 20px 0 50px 200px;
+}
+
+.info li{
+	list-style: none;
+	line-height: 40px;
+}

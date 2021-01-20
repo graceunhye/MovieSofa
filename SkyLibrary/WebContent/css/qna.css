@@ -1,0 +1,192 @@
+@charset "EUC-KR";
+
+
+.top_td {
+	border-top: 3px solid #2C78D7;
+	border-bottom: 3px solid #2C78D7;
+	border-left: none;
+	border-right: none;
+}
+
+.top_tr {
+	border-left: none;
+	border-right: none;
+}
+.searchpage{
+	position : relative;
+	text-align: center;				
+	}	
+	
+	.btns {
+		margin-left: 1100px;
+	}
+	
+	.btn {
+		width: 100px;
+		height: 30px;
+		border: none;
+		background-color: #124993;
+		color: white;
+		border-radius: 5px;
+	}
+	
+	.searchResultNum {
+		margin-right: 1050px;
+		font-weight: bold;
+		color:  #a8a8a8;
+	}
+	
+	.qnaTable {
+		margin-top: 10px;
+		border-collapse:collapse;
+		border: none;
+		color: #383838;
+	}
+	
+	.qnaTable td {
+		height: 30px;
+		text-align: center;
+	}
+	
+	.qnaTable td,
+	.qnaTable th {
+		border-bottom: 1px solid gray;
+	}
+	
+	.qnaTable td:nth-child(2){
+		text-align: left;
+		padding-left: 10px;
+	}
+	
+	
+	
+	.searchBox {
+		width: 400px;
+		margin-left: 800px;
+	}
+	
+.keyword {
+	padding: 10px 20px 10px 20px;
+	border-radius: 5px;
+	border: 1px solid  #a8a8a8;
+}
+
+.select {
+	width: 100px;
+	height: 40px;
+	border-radius: 5px;
+	border: 1px solid  #a8a8a8;
+}
+	
+.searchBtn {
+width: 70px;
+height: 40px;
+border-radius: 5px;
+border: 1px solid  #a8a8a8;
+color: white;
+background-color: #124993;
+font-weight: bold;
+}
+
+.qTableWrap {
+	width: 1250px;
+}
+
+.qna_btn{
+	width: 70px;
+	height: 30px;
+	border-radius: 5px;
+	border: 1px solid  #a8a8a8;
+	color: white;
+	background-color: #124993;
+	font-weight: bold;
+}
+
+.deleteBtn {
+	float: right;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+.gotolist {
+	float: right;
+	margin-bottom: 10px;
+}
+
+	.qTable,
+	.aTable {
+		margin: 20px 0 20px 50px;
+		border-collapse: collapse;
+	}
+
+	.qTable tr:nth-child(3) td{
+		padding: 15px;
+	}
+	
+	.qTable tr:nth-child(1) td{
+		padding-left: 10px;
+	}
+	
+	.qTable tr:nth-child(2) td{
+		padding-left: 10px;
+	}
+	
+	.hr {
+		margin-top: 30px;
+		margin-bottom: 30px;
+		background-color: #e0e0e0;
+		width: 1200px;
+		align: center
+	}
+	
+	.subTitle {
+		margin-left: 50px;
+		color: #383838;
+	}
+	
+	.point{
+		color: orange;
+		font-weight: bold;
+	}
+	
+	.aTable th,
+	.qTable th {
+		color: white;
+		background-color: #2C78D7;
+		border: 1px solid #383838;
+	}
+	
+	.aEmpty {
+		margin-left: 500px;
+		font-weight: bold;
+		font-size: 20px;
+		color:  #a8a8a8;
+	}
+	
+	td.body {
+		padding: 15px;
+	}
+	
+	.qInsertTable {
+		margin-top: 10px;
+		border-collapse:collapse;
+		border: none;
+		color: #383838;
+	}
+	
+	.qInsertTable th {
+		color: white;
+		background-color: #2C78D7;
+		border: 1px solid #383838;
+	}
+	
+	.qInsertTableWrap {
+		margin: 50px 0 50px 170px;
+	}
+	
+	.qInsertTableTd {
+		border: 1px solid #383838;
+	}
+	
+	
+	

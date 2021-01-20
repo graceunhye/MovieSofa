@@ -1,0 +1,15 @@
+@charset "EUC-KR";
+
+.calendar {
+	margin: 20px 0 0 200px;
+}
+
+.info li{
+	list-style: none;
+	line-height: 40px;
+}
+
+.info_box {
+	margin-left: 200px;
+	
+}

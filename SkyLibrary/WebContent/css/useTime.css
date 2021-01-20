@@ -1,0 +1,27 @@
+@charset "EUC-KR";
+.content {
+	margin: 100px 0 200px 250px;
+}
+
+.timeTable {
+	border-collapse:collapse;
+	width: 700px;
+	height: 100px;
+}
+
+.timeTable th {
+	background-color:#2C78D7;
+	color: white;
+}
+
+.tip {
+	font-size: 15px;
+}
+
+h3 {
+	color:  #383838;
+}
+
+.timeTable td {
+	text-align: center;
+}

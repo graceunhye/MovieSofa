@@ -1,0 +1,13 @@
+.mjoin_box {
+	border-radius: 5px;
+	position : relative;
+	margin-left : 30%;
+	margin-top : 18%;
+}
+.star{
+ color : orange;
+}
+.insert_box{
+	position : relative;
+	margin-left : 25%;
+}

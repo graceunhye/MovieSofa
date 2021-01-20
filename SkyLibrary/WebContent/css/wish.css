@@ -1,0 +1,144 @@
+.article {
+	
+}
+
+.wishInfoTable {
+	border-collapse: collapse;
+	height: 500px;
+}
+
+.content {
+	margin: 20px 0 100px 200px;
+}
+
+h3 {
+	color:  #383838;
+}
+
+.info1 li,
+.info2 li 
+{
+	line-height: 40px;
+	color:  #383838;
+}
+
+.subTitle 
+{
+	text-align: center;
+	background-color: #e6f1ff;
+	font-weight: bold;
+}
+
+
+.wishInfoTable th {
+	background-color: #2C78D7;
+	color: white;
+}
+
+.tip {
+	font-size: 15px;
+	color: gray;
+}
+
+.contentPart {
+	margin-top: 60px;
+
+}
+
+.wishBtn {
+	margin-left: 20px;
+	width: 120px;
+	height: 45px;
+	color: white;
+	background-color: #124993;
+	border-radius: 5px;
+	border: none;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.wishBtns {
+	width: 500px;
+	margin: 50px 0 50px 270px;
+}
+
+
+
+
+/** wishApply.jsp **/
+
+.wish_table {
+	width: 850px;
+	height: 800px;
+}
+
+.wish_table>tbody>tr>td, 
+.wish_table>tbody>tr>th{
+	border-top: 3px solid #124993;
+}
+
+.wish_table>tbody>tr>td{
+	padding-left: 20px;
+}
+.wish_table>tbody>tr>th {
+	color: #124993;
+	width: 150px;
+}
+
+.textarea {
+	resize: none;
+	border: 1px solid #e0e0e0;
+	border-radius: 5px;
+}
+
+input[type="text"]:focus {
+	outline:1px solid orange;
+	outline-radius: 5px;
+	opacity:50%;
+}
+
+.textarea:focus {
+	outline:1px solid orange;
+}
+
+input[type="text"] {
+	width: 600px;
+	height: 45px;
+	border: 1px solid #e0e0e0;
+	border-radius: 5px;
+}
+
+.last
+{
+	border-bottom: 3px solid #124993;
+	height: 200px;
+}
+
+.tip {
+	font-size: 12px;
+}
+
+.point {
+	color: orange;
+	font-size: 20px;
+}
+
+.content {
+	margin: 100px 0 0 250px;
+}
+
+.btns {
+	margin: 50px 0 50px 300px;
+}
+
+.btn {
+	margin-left: 20px;
+	width: 120px;
+	height: 45px;
+	color: white;
+	background-color: #124993;
+	border-radius: 5px;
+	border: none;
+	font-size: 15px;
+	font-weight: bold;
+}

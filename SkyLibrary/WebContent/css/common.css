@@ -1,0 +1,324 @@
+.wrap {
+	width: 1930px;
+	
+}
+.head_option {
+	height: 40px;
+	background-color: #2C78D7;
+	width: 1930px;
+}
+
+.rightnow {
+	width: 150px;
+	float: left;
+	color: #376DB5;
+	background-color: white;
+	height: 30px;
+	padding-top: 10px;
+	margin-left: 200px;
+}
+
+.rightnow_click {
+	margin-left: 20px;
+	color: #376DB5;
+	font-weight: bold;
+}
+
+.head_btn {
+	width: 100px;
+	height: 30px;
+	margin-left:5px;
+	margin-top: 5px;
+	float: right;
+	border: 1px solid white;
+	color: #376DB5;
+	font-weight: bold;
+	border-radius: 3px;
+	font-size: 14px;
+}
+.head_span {
+	float:left;
+	margin: 10px 10px 0 0px;
+	color: white;
+	font-weight: bold;
+}
+
+.head_btns {
+	float: right;
+	margin-right: 150px;
+}
+
+.head_banner {
+	height: 270px;
+}
+
+.left_menu {
+	width: 300px;
+	float: left;
+	border: 1px solid #e0e0e0;
+	border-radius: 5px;
+	padding: 2%;
+	margin: 20px 10px 30px 50px;
+}
+
+.section {
+	float: right;
+	width: 1350px;
+	border: 1px solid #e0e0e0;
+	border-radius: 5px;
+    margin: 20px 79px 30px 0;
+	padding: 15px;
+}
+
+/** footer css **/
+/* .footer {
+	clear: both;
+	height: 50px;
+	border: 1px solid #e0e0e0;
+	background-color: #2C78D7;
+	width: 1930px;
+}
+
+.kind {
+	display: inline;
+	margin: 30px 20px 0 20px;
+}
+
+.copy {
+	float: right;
+	color: white;
+	font-weight: bold;
+}
+
+
+.copy>li{
+	list-style: none;
+	margin: 0 30px 20px 0;
+}
+
+.kind>li {
+	display: inline;
+	color: #e0e0e0;
+}
+
+.footer_title {
+	border-left: 3px solid white;
+	color: white;
+} */
+/** footer css end **/
+
+footer {
+	clear: both;
+	border-top: 1px solid #e0e0e0;
+	border-bottom: 10px solid #2C78D7;
+	height: 200px;
+}
+
+.kindn {
+	display: inline;
+	float: right;
+}
+
+
+.footerTitle {
+	font-weight: bold;
+	color: #2C78D7;
+}
+
+.footerSubTitle {
+	font-weight: bold;
+	color: #2C78D7;
+	opacity: 0.8;
+}
+
+.normal {
+	color: #383838;
+}
+
+.kind li {
+	list-style: none;
+}
+.kindn li {
+	list-style: none;
+}
+
+.kind {
+	display: inline;
+	float: left;
+}
+
+.footerLogo {
+	opacity: 0.6;
+    filter: alpha(opacity=60);
+}
+
+.footerUlWrapRight {
+	padding: 40px 300px 0 0;
+	width: 500px;
+	float: right;
+	opacity: 0.8;
+}
+
+.footerUlWrapLeft {
+	padding: 50px  0 0 200px;
+	width: 500px;
+	float: left;
+}
+
+
+.empty {
+	width: 100px;
+	float: right;
+}
+
+.top_menu>ul>li {
+	display: inline;
+}
+.top_menu>ul>li>a{
+	font-size: 20px;
+	color: #124993;
+	font-weight: bold;
+}
+.top_menu {
+	border: 1px solid #e0e0e0;
+	padding-left: 620px;
+}
+
+.banner_option {
+	height: 200px;
+}
+
+
+a {
+	text-decoration: none;
+	color: #2C78D7;
+}
+
+.left_menu>ul>a>li {
+	list-style: none;
+}
+
+.left_menu>ul>li{
+	list-style: none;
+	font-weight: bold;
+	border-bottom: 3px solid #376DB5;
+
+}
+
+.left_menu>ul {
+	padding: 0px;
+}
+
+.left_menu_title {
+	height: 70px;
+	font-size: 25px;
+	text-align: center;
+	color: #124993;
+}
+.left_menu_sub {
+	height: 50px;
+	border-top: 1px solid #e0e0e0;
+	text-align: center;
+	font-size: 20px;
+	padding-top: 15px;
+	
+}
+.left_menu_sub:hover {
+	background-color: #2C78D7;
+	opacity: 40%;
+	color: white;
+	border-radius: 5px;
+}
+
+.logoImg {
+	float: left;
+	margin: 70px 0 0 240px;
+}
+
+.last_sub {
+	border-bottom: 1px solid #e0e0e0;
+}
+
+.rain {
+	margin: 0 70px 0 70px;
+}
+
+.mypage {
+	float: right;
+	width: 200px;
+	height: 50px;
+	border: 1px solid #2C78D7;
+	background-color: #124993;
+	border-radius: 5px;
+	color: white;
+	font-size: 18px;
+	font-weight: bold;
+	margin: 80px 250px 0 0;
+}
+
+.on {
+	background-color: #2C78D7;
+	color: white;
+	border-radius: 5px;
+}
+
+.top_title {
+	font-size: 30px;
+	color: #124993;
+	border-left: 5px solid #124993;
+	font-weight: bold;
+	padding-left: 8px;
+}
+
+.page_map {
+	padding-left: 20px;
+	color: #cfcfcf;
+}
+
+.section_top {
+	margin: 30px;
+}
+
+.content {
+	margin: 50px 30px 100px 50px;
+}
+
+.head_id {
+	color: white;
+	margin-top: 10px;
+	width: 100px;
+	float: left;
+	font-weight: bold;
+}
+
+.rentbtn {
+		background-color : #2C78D7;
+		color : white;
+		border-radius: 5px;
+		border : #124993;
+		height : 30px;
+		font-size: 15px;
+}
+
+.normalBtn {
+		background-color :#124993;
+		color : white;
+		border-radius: 5px;
+		border : #124993;
+		height : 30px;
+		width: 80px;
+		font-size: 15px;
+		font-weight: blod;
+}
+
+.listbtn{
+	background-color : #124993;
+	color : white;
+	border : #124993;
+	border-radius: 3px;
+	width : 70px;
+	height: 30px;
+	position : relative;
+	margin-left : 61%;
+}
+
